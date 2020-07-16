@@ -1,4 +1,4 @@
 # gitskills
 Creating a new branch is quick and simple.
 New dev branch.
-Git is free software.
+Git is a free software.
